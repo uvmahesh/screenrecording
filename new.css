@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(181, 234, 243);
+
+  }
+  h1 {
+    text-align: center;
+    color:red
+  }
+  button {
+    background-color: blue;
+    color: white;
+    border: right;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color:goldenrod;
+  }
+  
+  #transcription {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  fieldset{
+        margin-right:10%;
+        margin-right:20%;
+        background-color: antiquewhite;
+    }
+  
+  
